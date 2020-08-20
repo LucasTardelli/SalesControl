@@ -3,3 +3,10 @@ Ferramenta para auxiliar vendedores.
 -Esta sendo utilizado o swing como frontend;
 -Esta sendo utilizado o banco de dados Sqlite;
 -Ainda em desenvolvimento.
+
+Funções à serem implementadas:
+-Controlador de vendas;
+-Gerador de gráfico mostrando histórico de vendas;
+-Gerador de nota promissória;
+-Controlador de Estoque;
+-Controlador de metas.
