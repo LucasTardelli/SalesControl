@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/tableModel/TableModelCliente.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/tableModel/TableModelProduto.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/interfaces/ConverterDatas.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/model/Produto.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/DAO/ProdutoDAO.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/view/TelaCadastroCliente.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/model/CliTel.java</file>
+            <file>file:/C:/Users/Aragao/Documents/NetBeansProjects/ControleVendas/src/DAO/ClienteDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
